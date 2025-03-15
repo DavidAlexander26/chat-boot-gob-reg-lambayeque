@@ -1,5 +1,4 @@
-{
-  "faq": [
+[
     {
       "question": "¿Cuál es el procedimiento administrativo descrito en el documento?",
       "answer": "Otorgamiento o Renovación de autorización para desarrollar la actividad de Acuicultura de Micro y Pequeña Empresa – AMYPE."
@@ -81,4 +80,3 @@
       "answer": "Esto no está especificado en el documento, por lo que sería necesario consultar a la autoridad correspondiente para aclarar este aspecto."
     }
   ]
-}
